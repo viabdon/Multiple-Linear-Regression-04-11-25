@@ -1,0 +1,1 @@
+### Esta é uma atividade para a matéria de modelagem estatística do sexto período do curso de ciência da computação. O objetivo era consolidar os conhecimentos acerca de regressões lineares multivariadas adquiridos em sala de aula.
